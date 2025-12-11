@@ -2,8 +2,6 @@
 
 ### 👥 **Team Members**
 
-**Example:**
-
 | Name             | GitHub Handle | Contribution                                                             |
 |------------------|---------------|--------------------------------------------------------------------------|
 | Andrew Ren    | @taylornguyen | Ex. Data exploration, visualization, overall project coordination            |
