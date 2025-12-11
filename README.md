@@ -1,8 +1,4 @@
-# Your AI Studio Challenge Project Title Here
-
-⚠️ _Update the above title with your AI Studio Challenge Project name. Remove all guidance notes and examples in this template before finalizing your README._
-
----
+# Building a Personal Finance LLM
 
 ### 👥 **Team Members**
 
@@ -10,11 +6,11 @@
 
 | Name             | GitHub Handle | Contribution                                                             |
 |------------------|---------------|--------------------------------------------------------------------------|
-| Taylor Nguyen    | @taylornguyen | Data exploration, visualization, overall project coordination            |
-| Jordan Ramirez   | @jramirez     | Data collection, exploratory data analysis (EDA), dataset documentation  |
-| Amina Hassan     | @aminahassan  | Data preprocessing, feature engineering, data validation                 |
-| Priya Mehta      | @pmehta       | Model selection, hyperparameter tuning, model training and optimization  |
-| Chris Park       | @chrispark    | Model evaluation, performance analysis, results interpretation           |
+| Andrew Ren    | @taylornguyen | Ex. Data exploration, visualization, overall project coordination            |
+| Anjali Amin  | @jramirez     | Ex. Data collection, exploratory data analysis (EDA), dataset documentation  |
+| Marvin Hoang     | @aminahassan  | Ex. Data preprocessing, feature engineering, data validation                 |
+| Nailya Alimova      | @pmehta       | Ex. Model selection, hyperparameter tuning, model training and optimization  |
+| Naisha Mistry       | @naishahmistry    | Ex. Model evaluation, performance analysis, results interpretation           |
 
 ---
 
